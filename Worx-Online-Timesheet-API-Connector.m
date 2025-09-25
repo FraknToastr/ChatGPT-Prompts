@@ -1,0 +1,1 @@
+"Write a Power Query M script that calls the Worx Timesheets API with POST (dateFrom=2024-02-28T00:00:00.001Z, dateTo=2026-06-04T00:00:00.001Z), passes an Api-Key header, parses the JSON response, expands all record fields, converts to a table, and ends with a Changed Type step."
