@@ -6,6 +6,7 @@
   <li>Record script version in header comments</li>
   <li>Record filename in header comments</li>
   <li>Mention versions of software being  and check documenation e.g. Using Blender 4.5.</li>
+  <li>###Provide debugging</li>
 </ol>
 
 
