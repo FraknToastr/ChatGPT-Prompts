@@ -1,8 +1,9 @@
 # ChatGPT-Prompts
 
-Coding
+## Coding
 
-Record script version in header comments;
+Record script version in header comments<br>
+Record filename in header comments;
 Mention versions and check documenation e.g. Using Blender 4.5. Check Python documentation.;
 
 
