@@ -11,6 +11,11 @@
   <li>Provde prompts as Markdown. Easy for AI to process and Markdown can communicate UI structure well. Think of it like ASCII art of UI.</li>
 </ol>
 
+## Claude Specific
+
+<ol>
+  <li>Refer to Artifcacts using your version system e.g. V31 latest</li>
+</ol>
 
 
 ## Blender-specific
