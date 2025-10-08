@@ -23,7 +23,7 @@
 <ol>
   <li>Always include an uninstall button in addon tools</li>
   <li>I am using version 4.5.3</li>
-  <li>Scan Python documentation to learn best practice</li>
+  <li>Scan latest Blender Python documentation to learn best practice</li>
 </ol>
 
 
