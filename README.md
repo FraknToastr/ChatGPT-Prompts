@@ -9,6 +9,7 @@
   <li>Provide debugging</li>
   <li>Add home and work drive paths so I can easily use the same script at work and home</li>
   <li>Provde prompts as Markdown. Easy for AI to process and Markdown can communicate UI structure well. Think of it like ASCII art of UI.</li>
+  <li>Rebuild the script automatically if you are not offering fix options. Especially you ChatGPT.</li>
 </ol>
 
 ## Claude Specific
