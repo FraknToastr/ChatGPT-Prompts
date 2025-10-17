@@ -33,4 +33,12 @@
   <li>Don't use illegal characters when write to a GDB e.g. '-'</li>
 </ol
 
+## SQL Scripts
+
+<ol>
+  <li>If providing multi-step solutions (scripts), give me one at a time and wait for me to tell you the results</li>
+  <li>I am using SSMS 21</li>
+  <li>I am uing ArcGIS Pro 3.5.3's Query Layer Tool</li>
+</ol
+
 
