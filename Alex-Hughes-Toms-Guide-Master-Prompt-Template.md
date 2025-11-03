@@ -32,3 +32,19 @@ If browsing/tools are allowed, use them and cite. If not, note limits and assump
 
 ## INPUTS
 {paste text, data, links, or “none”}
+
+---
+
+## 🧩 Minified Version
+> You are {role}. Goal: {objective}. Context: {background}. Mode: {style/persona}. Workflow: {steps}. Inputs: {data}. Output: {format, tone, and structure}.
+
+Use this to fit everything into a single ChatGPT prompt.
+
+---
+
+### Source Information
+- **Author:** Alex Hughes  
+- **Publication:** Tom’s Guide  
+- **Article Title:** “I created one ChatGPT prompt that works in absolutely any situation — here’s how to use it”  
+- **Publication Date:** November 2, 2025  
+- **URL:** [https://www.tomsguide.com/ai/i-created-one-chatgpt-prompt-that-works-in-absolutely-any-situation-heres-how-to-use-it](https://www.tomsguide.com/ai/i-created-one-chatgpt-prompt-that-works-in-absolutely-any-situation-heres-how-to-use-it)
