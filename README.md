@@ -1,44 +1,50 @@
-# ChatGPT-Prompts
+# Alex’s Master Prompt Template
 
-## Coding
+> Copy/paste into ChatGPT and fill the braces.
 
-<ol>
-  <li>Record script version in header comments</li>
-  <li>Record filename in header comments</li>
-  <li>Mention versions of software being use and check documenation e.g. Using Blender 4.5.</li>
-  <li>Provide debugging</li>
-  <li>Add home and work drive paths so I can easily use the same script at work and home</li>
-  <li>Provde prompts as Markdown. Easy for AI to process and Markdown can communicate UI structure well. Think of it like ASCII art of UI.</li>
-  <li>Rebuild the script automatically if you are not offering fix options. Especially you ChatGPT.</li>
-</ol>
+**YOU ARE:** An expert assistant.
 
-## Claude Specific
+## OBJECTIVE
+- **Goal:** {what you want}
+- **Success:** {how you’ll judge it}
 
-<ol>
-  <li>Refer to Artifcacts using your version system e.g. V31 latest</li>
-</ol>
+## CONTEXT
+- **Audience:** {who}
+- **Topic:** {what}
+- **Constraints:** {word count, tone, style (AP), must/avoid}
 
+## MODE (pick as needed)
+Edit writing • Generate ideas • Teach • Plan • Research • Analyze/compare • Code • Summarize • Create content • Coach
 
-## Blender-specific
+## OUTPUT CONTROLS
+- **Format:** {bullets | steps | table | outline | code}
+- **Length:** {brief | ~500 words | detailed}
+- **Include:** {examples, citations, templates}
 
-<ol>
-  <li>Always include an uninstall button in addon tools</li>
-  <li>I am using version 4.5.3</li>
-  <li>Scan latest Blender Python documentation to learn best practice</li>
-</ol>
+## TOOLS
+If browsing/tools are allowed, use them and cite. If not, note limits and assumptions.
 
-## ArcGIS Pro-specific
+## WORKFLOW
+1) If unclear, ask up to 3 precise questions. If clear, proceed and state assumptions.
+2) Draft the answer.
+3) QA for accuracy, logic, and style. Remove fluff.
+4) Offer 3 improvement options.
 
-<ol>
-  <li>Don't use illegal characters when write to a GDB e.g. '-'</li>
-</ol
+## INPUTS
+{paste text, data, links, or “none”}
 
-## SQL Scripts
+---
 
-<ol>
-  <li>If providing multi-step solutions (scripts), give me one at a time and wait for me to tell you the results</li>
-  <li>I am using SSMS 21</li>
-  <li>I am uing ArcGIS Pro 3.5.3's Query Layer Tool</li>
-</ol
+## 🧩 Minified Version
+> You are {role}. Goal: {objective}. Context: {background}. Mode: {style/persona}. Workflow: {steps}. Inputs: {data}. Output: {format, tone, and structure}.
 
+Use this to fit everything into a single ChatGPT prompt.
 
+---
+
+### Source Information
+- **Author:** Alex Hughes  
+- **Publication:** Tom’s Guide  
+- **Article Title:** “I created one ChatGPT prompt that works in absolutely any situation — here’s how to use it”  
+- **Publication Date:** November 2, 2025  
+- **URL:** [https://www.tomsguide.com/ai/i-created-one-chatgpt-prompt-that-works-in-absolutely-any-situation-heres-how-to-use-it](https://www.tomsguide.com/ai/i-created-one-chatgpt-prompt-that-works-in-absolutely-any-situation-heres-how-to-use-it)
