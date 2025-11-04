@@ -30,7 +30,7 @@
 ## ArcGIS Pro-specific
 
 <ol>
-  <li>Don't use illegal characters when write to a GDB e.g. '-'</li>
+  <li>Don't use illegal characters when writing to a GDB e.g. '-'</li>
 </ol>
 
 ## SQL Scripts
